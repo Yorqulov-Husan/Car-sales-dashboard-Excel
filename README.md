@@ -14,20 +14,3 @@ An interactive car sales dashboard built in Excel, covering the **Jetour** and *
 
 ![Car sales dashboard](picture.png)
 
-## ▶️ How to Use
-
-> [!Note]
-> This project was created on macOS, so some minor visual or formatting issues may occur on Windows.
-1. Download the file
-2. Open it in Excel (before opening the file, click 'Enable Macros' in order for the visuals to work correctly and smoothly)
-3. Use the slicers to filter by time period and region
-4. Explore the interactive map, charts, and summary cards
-
-## 🛠️ Built With
-
-- Microsoft Excel (PivotTables, PivotCharts, Slicers, Map Chart, VBA)
-
-## 📌 Notes
-
-- Data is filtered dynamically — all visuals update together when a slicer selection changes.
-- Designed for quick, at-a-glance business insights into brand performance, regional trends, and customer segmentation.
